@@ -1,2 +1,18 @@
-# CodeLabInteger128x64
-Experimenting with GDScript modding where the only available I/O is a 128×64 display and the ability to send integers to a trusted target over UDP, WebSocket, or RSA-secured communication.
+# Code Lab Integer 128x64
+
+> An experimental GDScript modding environment where the only available I/O consists of a 128×64 display and the ability to transmit integers to a trusted endpoint through UDP, WebSocket, or RSA-secured communication.
+
+The primary focus of my life for the coming years is the project EloiCodeXR application to learn code.
+
+Lightweight 2D code IDE designed for training in GDScript modding and solving programming exercises within the constraints of a 128×64 display environment.
+
+## Features
+
+This application acts as an APInt.IO terminal and provides:
+* A 2D code editor for GDScript experimentation and modding exercises.
+* A constrained development environment based on a 128×64 display.
+* Training tools for APInt.IO integer-based input and output workflows.
+* An authentication terminal for APInt.IO services.
+* Support for communication with trusted endpoints through UDP, WebSocket, or RSA-secured channels.
+
+
