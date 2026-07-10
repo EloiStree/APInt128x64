@@ -1,0 +1,42 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="APInt 128x64"
+config/description="The Client Gate connects to the APInt Server using a 128×64 display modding tool to learn code. The target platforms include SteamOS, Godot Pi-Apps, the Google Play Store, and Steam."
+config/version="2026.7.10"
+config/features=PackedStringArray("4.7", "GL Compatibility")
+run/max_fps=20
+run/low_processor_mode=true
+boot_splash/stretch_mode=3
+config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=900
+window/size/viewport_height=1600
+window/size/initial_position_type=4
+window/size/initial_screen=1
+window/stretch/mode="viewport"
+window/stretch/aspect="keep_height"
+
+[physics]
+
+3d/physics_engine="Jolt Physics"
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0
+rendering_device/driver.windows="d3d12"
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+viewport/hdr_2d=true
+environment/defaults/default_clear_color=Color(0, 0, 0, 0)
