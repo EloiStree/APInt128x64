@@ -18,3 +18,5 @@ This application acts as an APInt.IO terminal and provides:
 * Support for communication with trusted endpoints through UDP, WebSocket, or RSA-secured channels.
 
 
+If you want to debug your screen on a real one:  
+https://github.com/EloiStree/2026_04_27_esp32_oled_128x64_udp_i2c  
