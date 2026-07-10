@@ -1,4 +1,4 @@
-# Code Lab Integer 128x64
+# APInt Integer 128x64
 
 > An experimental GDScript modding environment where the only available I/O consists of a 128×64 display and the ability to transmit integers to a trusted endpoint through UDP, WebSocket, or RSA-secured communication.
 
