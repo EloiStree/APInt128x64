@@ -1,0 +1,15 @@
+[submodule "addons/2024_10_16_gdp_blocks_color"]
+	path = addons/2024_10_16_gdp_blocks_color
+	url = https://github.com/EloiStree/2024_10_16_gdp_blocks_color.git
+[submodule "addons/2026_04_27_gdp_oled_128x64"]
+	path = addons/2026_04_27_gdp_oled_128x64
+	url = https://github.com/EloiStree/2026_04_27_gdp_oled_128x64.git
+[submodule "addons/2026_07_10_gdp_code_edit_tbio"]
+	path = addons/2026_07_10_gdp_code_edit_tbio
+	url = https://github.com/EloiStree/2026_07_10_gdp_code_edit_tbio
+[submodule "addons/2026_07_11_gdp_find_device_from_ports"]
+	path = addons/2026_07_11_gdp_find_device_from_ports
+	url = https://github.com/EloiStree/2026_07_11_gdp_find_device_from_ports.git
+[submodule "addons/2026_07_11_gdp_mdns_to_ipv4"]
+	path = addons/2026_07_11_gdp_mdns_to_ipv4
+	url = https://github.com/EloiStree/2026_07_11_gdp_mdns_to_ipv4.git
