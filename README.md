@@ -6,7 +6,9 @@ The primary focus of my life for the coming years is the project EloiCodeXR appl
 
 Lightweight 2D code IDE designed for training in GDScript modding and solving programming exercises within the constraints of a 128×64 display environment.
 
-See https://github.com/EloiStree/CodeLabCinema
+See 
+- https://github.com/EloiStree/CodeLabCinema
+- https://github.com/EloiStree/G128x64
 
 ## Features
 
@@ -18,3 +20,5 @@ This application acts as an APInt.IO terminal and provides:
 * Support for communication with trusted endpoints through UDP, WebSocket, or RSA-secured channels.
 
 
+If you want to debug your screen on a real one:  
+https://github.com/EloiStree/2026_04_27_esp32_oled_128x64_udp_i2c  
