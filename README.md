@@ -6,7 +6,9 @@ The primary focus of my life for the coming years is the project EloiCodeXR appl
 
 Lightweight 2D code IDE designed for training in GDScript modding and solving programming exercises within the constraints of a 128×64 display environment.
 
-See https://github.com/EloiStree/CodeLabCinema
+See 
+- https://github.com/EloiStree/CodeLabCinema
+- https://github.com/EloiStree/G128x64
 
 ## Features
 
